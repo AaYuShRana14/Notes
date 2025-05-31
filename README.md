@@ -21,10 +21,7 @@ Built with:
    ```bash
    git clone https://github.com/AaYuShRana14/Notes
    cd notes
-2. Install dependencies for the root project:
-   ```bash
-   npm install
-3. Start the application (both backend and frontend):
+2. Start the application (both backend and frontend) install dependencies:
    ```bash
    npm start
   
